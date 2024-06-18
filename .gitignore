@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+media/
+authentication/__pycache__/
+process_occ/__pycache__/
+admin_panel/__pycache__/
+Project/__pycache__/
